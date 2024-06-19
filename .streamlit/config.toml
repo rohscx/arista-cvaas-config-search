@@ -1,0 +1,4 @@
+[server]
+sslCertFile = './certchain.pem'
+sslKeyFile = './private.key'
+port = 8501
